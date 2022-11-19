@@ -9,7 +9,7 @@
 <ul><li>Tecnicatura en Administracion con orientacion en Marketing</li>
 <li>Diplomatura en Community Management</li>
 <li>curso de HTML for Babies</li>
-<li>Icurso de CSS for Babies</li>
+<li>curso de CSS for Babies</li>
 <li>curso de JavaScript for Babies</li></ul>
 
 
@@ -21,10 +21,10 @@
 
 ## <ins> Contacto  </ins>.
 
-<ul><li> Instagra: /Mamavicio</li>
-<li> Discord: LeaDaiana#8944 </li>
-<li> Mail : lea.daiana@gmail.com </li>
-<li> Linkedin : www.linkedin.com/in/lea-daiana </li></ul>
+<ul><li> 🎞 Instagra: /Mamavicio</li>
+<li>👾 Discord: LeaDaiana#8944 </li>
+<li> ✉ Mail : lea.daiana@gmail.com </li>
+<li> 🤝 Linkedin : www.linkedin.com/in/lea-daiana </li></ul>
 
 
 <!--
