@@ -1,5 +1,12 @@
 ###  Daiana Lea Gonzalez
 
+## Carrera profecional
+
+# Desde hace 10 años formo parte del único club del Automóvil de la Argentina, desarrollando tareas en el área de Seguros del Automotor. Después de mucho tiempo decidí retomar los estudios, los cuales habían quedados abandonas años atrás en el área de Marketing. 
+# Hoy me siento totalmente entusiasmada y adquiriendo un montón de conocimientos nuevos en el área de la programación.
+
+
+
 <!--
 **Leadaiana/Leadaiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
