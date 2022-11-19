@@ -7,23 +7,25 @@
 ## <ins> Estudios </ins>.
 
 <ul><li>Tecnicatura en Administracion con orientacion en Marketing</li>
-<li>Diplomatura en Community Management</li></ul>
-<ul><li>curso de HTML for Babies</li>
-<li>Icurso de CSS for Babies</li></ul>
-<ul><li>curso de JavaScript for Babies</li>
+<li>Diplomatura en Community Management</li>
+<li>curso de HTML for Babies</li>
+<li>Icurso de CSS for Babies</li>
+<li>curso de JavaScript for Babies</li></ul>
 
 
 
 ## <ins> Proyección </ins>.
- en camino de seguir adquiriendo nuevos conocimientos, para poder ser una desarrolladora Frontend y poder vivir de esto.
+
+ En camino de seguir adquiriendo nuevos conocimientos, para poder ser una desarrolladora Frontend y poder dedicarme al full time.
 
 
-## <ins> Donde contactarme:  </ins>.
+## <ins> Contacto  </ins>.
 
 <ul><li> Instagra: /Mamavicio</li>
-<ul><li> Discord: LeaDaiana#8944 </li>
-<ul><li> Mail : lea.daiana@gmail.com </li>
-<ul><li> Linkedin : www.linkedin.com/in/lea-daiana </li>
+<li> Discord: LeaDaiana#8944 </li>
+<li> Mail : lea.daiana@gmail.com </li>
+<li> Linkedin : www.linkedin.com/in/lea-daiana </li></ul>
+
 
 <!--
 **Leadaiana/Leadaiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
